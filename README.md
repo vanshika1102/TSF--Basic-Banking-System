@@ -1,2 +1,12 @@
 # TSF--Basic-Banking-System
-Sparks Foundation Web Development Internship Project : Basic Banking System website. A web application used to tranfer virtual money between multiple users and also record the banking transactions/ activities.  The website has the following specification -  A dummy data for upto 10 customers Customers table with basic fields such as name, email, current balance etc. Transaction status Transfer table/ Transfer History which records all the transactions
+Sparks Foundation Web Development Internship Project : Basic Banking System website.
+A web application used to tranfer virtual money between multiple users and also record the banking transactions/ activities.  
+The website has the following specification - 
+A dummy data for upto 10 customers.
+Customers table with basic fields such as name, email, current balance etc. 
+Transaction status.
+Transfer table/ Transfer History which records all the transactions.
+Technology Stack Used:
+FRONT END: HTML, CSS, JavaScript, Bootstrap 
+BACK END: PHP 
+DATABASE: MySQL
